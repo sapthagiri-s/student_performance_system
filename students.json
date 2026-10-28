@@ -1,0 +1,78 @@
+{
+    "001": {
+        "name": "Arun",
+        "age": 20,
+        "department": "ECE",
+        "marks": {
+            "c programming": 85,
+            "embedded systems": 88,
+            "python": 53
+        },
+        "attendance": {
+            "2026-10-25": "Present",
+            "2026-10-26": "Present",
+            "2026-10-27": "Present",
+            "2026-10-29": "Present"
+        }
+    },
+    "002": {
+        "name": "Priya",
+        "age": 21,
+        "department": "CSE",
+        "marks": {
+            "python": 95,
+            "c programming": 91,
+            "data structures": 89
+        },
+        "attendance": {
+            "2026-10-25": "Present",
+            "2026-10-26": "Present",
+            "2026-10-27": "Present"
+        }
+    },
+    "003": {
+        "name": "Karthik",
+        "age": 20,
+        "department": "ECE",
+        "marks": {
+            "python": 76,
+            "c programming": 68,
+            "embedded systems": 72
+        },
+        "attendance": {
+            "2026-10-25": "Present",
+            "2026-10-26": "Absent",
+            "2026-10-27": "Present"
+        }
+    },
+    "004": {
+        "name": "Divya",
+        "age": 22,
+        "department": "EEE",
+        "marks": {
+            "python": 84,
+            "c programming": 79,
+            "electrical circuits": 90
+        },
+        "attendance": {
+            "2026-10-25": "Absent",
+            "2026-10-26": "Present",
+            "2026-10-27": "Present"
+        }
+    },
+    "005": {
+        "name": "Vijay",
+        "age": 21,
+        "department": "CSE",
+        "marks": {
+            "python": 55,
+            "c programming": 62,
+            "data structures": 58
+        },
+        "attendance": {
+            "2026-10-25": "Present",
+            "2026-10-26": "Absent",
+            "2026-10-27": "Absent"
+        }
+    }
+}
